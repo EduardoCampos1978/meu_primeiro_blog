@@ -38,8 +38,6 @@
   
 
   
-
-  
   
 
   
@@ -59,7 +57,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://eduardocampos1978.github.io/meu_primeiro_blog/robots.txt",
